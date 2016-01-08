@@ -1,0 +1,19 @@
+{
+  "name": "what2watch",
+  "version": "0.1.0",
+  "description": "rank, filter and keep track of what to watch and where to find it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preetgujral/what2watch.git"
+  },
+  "author": "preet gujral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/preetgujral/what2watch/issues"
+  },
+  "homepage": "https://github.com/preetgujral/what2watch#readme"
+}
