@@ -1,5 +1,5 @@
 # what2watch
-rank, filter and keep track of what to watch and where to find it
+android app - rank, filter and sort movies and TV shows you want to watch. Developed using Ionic2/Cordova/Angular 
 
 ## Demo
 For an active demo please visit **TODO - add heroku link**
